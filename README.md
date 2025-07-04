@@ -321,9 +321,3 @@ If an attempt is made to insert or update a row through the view such that the m
   * **Views:** Virtual tables that provide a logical representation of data without storing it, simplifying data access and enhancing security.
   * **Data Abstraction:** The process of hiding complex underlying details and presenting a simpler, more manageable interface. Views are a prime example of data abstraction in SQL, as they allow users to interact with a simplified data model without needing to understand the intricacies of the base tables and their relationships.
 
-
-**[Your GitHub Repository Link Here]**
-*(Replace this placeholder with the actual URL of your GitHub repository)*
-
-```
-```
